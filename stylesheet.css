@@ -1,0 +1,35 @@
+h1{
+font-family: 'EB Garamond', serif;
+color: grey;
+}
+
+img {
+Width: 800px;
+float: left;
+}
+
+.banner {
+width: 1400px;}
+
+.gif {
+width: 400px;
+float: right;
+margin-right: 50px;}
+
+body{
+background-color:#D1E8D6;
+}
+
+p{
+color: black;font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+a{
+color: black
+font-size: 20px;
+}
+
+a:hover {
+color: black;
+font-size: 30px;
+}
